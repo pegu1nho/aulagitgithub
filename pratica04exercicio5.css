@@ -1,0 +1,24 @@
+/* Isso é um comentário em CSS! */
+.p1 {
+    color: pink;
+    font-size: 4rem;
+    font-family: Verdana;
+    }
+
+    .p2 {
+        color: red;
+        font-size: 3rem;
+        font-family: Arial;
+        }
+
+        .p3 {
+            color: purple;
+            font-size: 2rem;
+            font-family: Helvetica;
+            }
+            .p4 {
+                color: black;
+                font-size: 5rem;
+                font-family: Helvetica;
+                }
+            
