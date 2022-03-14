@@ -42,3 +42,8 @@
     color: black;
     text-decoration: none;
   }
+
+  .listadecompra {
+    margin: 2rem;
+    padding: 5px;
+  }
